@@ -34,3 +34,4 @@ Example of simple and intuitive syntax
 7.  Blockquotes
 > This is a blockquote.
 
+Author - Adarsh
