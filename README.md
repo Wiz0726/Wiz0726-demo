@@ -1,12 +1,12 @@
 # Wiz0726-demo
-This is for testing
+<strong>This is for testing</strong>
 Readme.md
 Here, md stands for Mark Down.
   - It is a lightweight markup language with plain-text formatting syntax.
   - Used for writing readme files, documentation, and other types of text that are meant to be displayed in a formatted way on the web.
   - It can contain text, images, links, lists, and other formatting elements, all using a simple and intuitive syntax.
   - GitHub automatically renders Markdown files when they are viewed on the platform, making it easy to create nicely formatted documentation and READMEs for software projects and repositories.
-
+<hr>
 Example of simple and intuitive syntax
 1. Header
 # Header 1
@@ -33,5 +33,9 @@ Example of simple and intuitive syntax
 
 7.  Blockquotes
 > This is a blockquote.
+<hr>
 
+We can also use general HTML commands to make changes in the Readme.md file.
+
+<hr>
 Author - Adarsh
