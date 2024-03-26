@@ -9,32 +9,19 @@ Here, md stands for Mark Down.
 
 Example of simple and intuitive syntax
 1. Header
-<!--Syntax: # Header 1 -->
 # Header 1
-<!--Syntax: ## Header 2 -->
 ## Header 2
-<!--Syntax: ## Header 3 -->
 ### Header 3
 
 2. Emphasis
-<!--Syntax: *italic* or _italic_ -->
 *italic* or _italic_
-<!--Syntax: **bold** or __bold__ -->
 **bold** or __bold__
 
 3. Lists
-<!--Syntax:
-- Item 1
-- Item 2
-  - Subitem 1
-  - Subitem 2 -->
 - Item 1
 - Item 2
   - Subitem 1
   - Subitem 2
-<!--Syntax:
-1. Item 1
-2. Item 2-->
 1. Item 1
 2. Item 2
 
