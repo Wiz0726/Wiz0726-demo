@@ -2,7 +2,7 @@
 <p>To configure Git on your system, you typically need to set up your username and email address, configure your default text editor, and optionally set other preferences. Here's a step-by-step guide:</p>
 <ol>
   <li>
-    <b>Install Git:<b> If you haven't already installed Git, you can download and install it from the official website: <a href=https://git-scm.com/>git-scm.com.</a>
+    <strong>Install Git:<strong> If you haven't already installed Git, you can download and install it from the official website: <a href=https://git-scm.com/>git-scm.com.</a>
   </li>
   <li>
     <b>Open a Terminal or Command Prompt:</b> Depending on your operating system, open a terminal or command prompt window.
