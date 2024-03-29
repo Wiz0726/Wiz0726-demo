@@ -21,3 +21,5 @@
   </li>
 </ol>
 <p>These are the basic configurations you'll typically set up when configuring Git. However, Git provides many other configuration options that you can explore based on your specific needs and preferences.</p>
+<br>
+<b>Author</b> Adarsh
