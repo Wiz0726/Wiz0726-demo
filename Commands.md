@@ -29,16 +29,19 @@
 <b>Commit:</b> it is the record of change
 <i>git commit -m "some message"</i>
 <br>
-
+<hr>
 <h2>Push Command</h2>
 <b>Push:</b> upload local repo content to remote repository
 <i>git push origin main</i>
-
+<hr>
 <h2>Innit Command</h2>
 <b>Innit:</b> used to create a new git repository
 <i>
     <ul>
         <li>git init</li>
+        <b>
+            The git init command is used to initialize a new git repository or reinitialize an existing one. The git init command transforms the current directory into a Git repository, i.e., a . git directory with subdirectories for objects , refs/heads , refs/tags , and template files. It will also create a new master branch.
+        </b>
         <li>git remote add origin <-link-></li>
         <b>
         The command git remote add origin <link> is used in Git to add a remote repository as a named alias, typically named 'origin', to your local repository. Here's what each part of the command means:
@@ -62,6 +65,17 @@
         So, when you execute git push -u origin main, you're pushing the changes from your local branch (likely main or another branch) to the main branch on the remote repository named origin, and you're setting the upstream branch so that future pushes and pulls can be done without specifying the remote and branch again.
         </b>
     </ul>
-
-    <h2></h2>
 </i>
+<hr>
+
+<h2>WorkGlow</h2>
+<b>Local Git</b>
+<p>GitHub repository ---> Clone ---> Changes ---> Add ---> Commit ---> Push </p>
+<hr>
+<h2>Git Branches</h2>
+<h2>Branch Commands</h2>
+<i>git branch</i> <b>to check branch</b>
+<i>git branch -M main</i> <b>to rename branch</b>
+<i>git checkout <- branch name -></i> <b>to navigate</b>
+<i>git checkout -b <-new branch name-></i> <b>to create new branch</b>
+<i>git branch -d <-branch name-></i> <b>to delete branch</b>
