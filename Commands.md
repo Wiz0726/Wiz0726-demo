@@ -79,3 +79,16 @@
 <i>git checkout <- branch name -></i> <b>to navigate</b>
 <i>git checkout -b <-new branch name-></i> <b>to create new branch</b>
 <i>git branch -d <-branch name-></i> <b>to delete branch</b>
+<hr>
+
+<h2>Merging Code</h2>
+<b>Way 1</b>
+<i>git diff <-branch name-></i> To compare commits, branches, files & more
+<i>git merge <-branch name-></i> To merge 2 branches
+<br>
+<b>Way 2</b>
+<i>Create a PR (Pull Request)</i> A Pull request lets you tell others about cahnges you've pushed to a branch in a repository on GitHub.</i>
+<hr>
+
+<h2>Pull Command</h2>
+<i>git pull origin main</i> used to fetch and downliad content from a remote repository and immediately update the local repsutory to match that content.</i>
