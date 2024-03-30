@@ -92,3 +92,25 @@
 
 <h2>Pull Command</h2>
 <i>git pull origin main</i> used to fetch and downliad content from a remote repository and immediately update the local repsutory to match that content.</i>
+<hr>
+
+<h2>Resolving Merge Conflicts</h2>
+<i>An event that takes place when Git is unable to automatically resolve diffrences in code between two commits.</i>
+<hr>
+
+<h2>Undoing Changes</h2>
+<b>Case 1:</b> Staged Changes<br>
+<i>git reset <-file name-></i>
+<i>git reset</i>
+<br>
+<b>Case 2:</b> Commited changes (for one commit)<br>
+<i>git reset HEAD~1</i>
+<br>
+<b>Case 3:</b> Commited Changes (for many commits)<br>
+<i>git reset <-commit hash-></i>
+<i>git reset --hard <-commit hash-></i>
+<br>
+<hr>
+
+<h2>Fork</h2>
+<p>A frk is a new repository that shared code and visibility settings with the original "upstream" repository. Fork is a rough copy.</p>
